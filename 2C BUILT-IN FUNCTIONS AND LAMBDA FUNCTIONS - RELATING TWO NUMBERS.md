@@ -22,6 +22,7 @@ To write a Python program to check the relation between two numbers — whether 
  
 
 ### PROGRAM
+```
 #Reg.No -212223060220
 #Name- Rakshitha M
 
@@ -31,7 +32,7 @@ if(x<y):
     print(x,"is smaller than",y)
 else:
     print(y,"is smaller than",x)
-
+```
 
 ### OUTPUT
 ![image](https://github.com/user-attachments/assets/d96fd7f8-8ce3-4eb4-bd10-ce7f27652f7d)
