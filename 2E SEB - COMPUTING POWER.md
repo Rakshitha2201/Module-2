@@ -20,6 +20,7 @@ To write a Python program to compute the power of a given number using an approp
 ---
 
 ### PROGRAM
+```
 # Reg.No- 212223060220
 # Name- Rakshitha M
 
@@ -29,7 +30,7 @@ power=lambda a,b:pow(a,b)
 print("Power of the given number is:",power(a,b))
 
 ```
-```
+
 ### OUTPUT
 ![image](https://github.com/user-attachments/assets/03f63d85-7666-41ab-861b-6a08d80fc2df)
 
