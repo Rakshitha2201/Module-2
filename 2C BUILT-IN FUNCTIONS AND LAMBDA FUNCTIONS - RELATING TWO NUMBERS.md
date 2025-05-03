@@ -25,7 +25,6 @@ To write a Python program to check the relation between two numbers — whether 
 #Reg.No -212223060220
 #Name- Rakshitha M
 
-
 x=int(input())
 y=int(input())
 if(x<y):
