@@ -37,6 +37,7 @@ for i in range(0,a):
     for j in range(0,i+1):
         print("* ",end=" ")
     print()
+```
 
 ### OUTPUT
 ![image](https://github.com/user-attachments/assets/d9b1870e-d80b-4481-987c-741e3785bc7e)
